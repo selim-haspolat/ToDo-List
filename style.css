@@ -72,6 +72,7 @@ i{
     border: 1px solid black;
     padding: 15px 7px;
     padding-left: 10px;
+    padding-right: 32px;
     width: 70vw;
     max-width: 800px;
     border-radius: 5px;
@@ -127,7 +128,7 @@ section span{
         transform: rotateX(0deg)
     }
     33%{
-        transform: rotateX(25deg)
+        transform: rotateX(45deg)
     }
     66%{
         transform: rotateX(-25deg)
@@ -143,10 +144,10 @@ section span{
         transform: rotateX(0deg)
     }
     33%{
-        transform: rotateX(-25deg)
+        transform: rotateX(-45deg)
     }
     66%{
-        transform: rotateX(15deg)
+        transform: rotateX(25deg)
     }
     100%{
         transform: rotateX(0deg)
