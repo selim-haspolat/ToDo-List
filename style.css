@@ -144,10 +144,10 @@ section span{
         transform: rotateX(0deg)
     }
     33%{
-        transform: rotateX(-45deg)
+        transform: rotateX(45deg)
     }
     66%{
-        transform: rotateX(25deg)
+        transform: rotateX(-25deg)
     }
     100%{
         transform: rotateX(0deg)
