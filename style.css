@@ -103,6 +103,7 @@ section{
     margin:.3rem 0;
     background-color: white;
     animation: myAnimationReverse .8s;
+    word-break: break-all;
 }
 section span{
     margin: 0 1rem;
